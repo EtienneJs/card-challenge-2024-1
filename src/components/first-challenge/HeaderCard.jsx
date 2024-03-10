@@ -7,6 +7,7 @@ function HeaderCard() {
                 <div className=" text-white">
                 <p className="text-sm">My Balance</p>
                 <p className="text-2xl">$921.48</p>
+                <p>sd</p>
                 </div>
                 <IconCircleCard/>
           </div>
